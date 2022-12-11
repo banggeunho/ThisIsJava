@@ -39,9 +39,9 @@ public class EnumWeekExample {
 
         System.out.println(today);
         if(today == Week.SUNDAY){
-            System.out.println("일요일");
+            System.out.println("일요일 ");
         } else {
-            System.out.println("일요일 x");
+            System.out.println("일요일 x ");
         }
 
         Week[] days = Week.values();
