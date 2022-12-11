@@ -1,4 +1,4 @@
-package study_221211;
+package 변수_조건_반복;
 
 public class FloatDoubleExample {
     public static void main ( String[] args) {
