@@ -1,0 +1,17 @@
+package api.string;
+
+public class ByteToStringExample {
+    public static void main (String[] args) {
+
+        byte[] bytes = {72, 101, 108, 108, 111, 32 ,74, 97, 118, 97};
+
+
+        // byte 형식을 파라미터로 넘길 수 있음..
+        String str1 = new String(bytes);
+        System.out.println(str1);
+
+        //byte[], offset, length
+        String str2 = new String(bytes, 6, 4);
+        System.out.println(str2);
+    }
+}
