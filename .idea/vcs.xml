@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-image-gallery" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tailwind-nextjs-starter-blog" vcs="Git" />
   </component>
